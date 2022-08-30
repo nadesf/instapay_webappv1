@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="342.475" height="19" viewBox="0 0 342.475 19">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Shape" d="M338.741-26.667h17.13a2.741,2.741,0,0,1,2.74,2.741v6.167h0a2.741,2.741,0,0,1-2.741,2.741H338.741A2.741,2.741,0,0,1,336-17.759v-6.167h0a2.741,2.741,0,0,1,2.741-2.741Z" transform="translate(-336 26.667)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Shape-2" data-name="Shape" d="M359-23v4.111a2.23,2.23,0,0,0,1.365-2.056A2.23,2.23,0,0,0,359-23" transform="translate(-359 23)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Shape-3" data-name="Shape" d="M339.37-24.667h15.759a1.37,1.37,0,0,1,.97.4,1.37,1.37,0,0,1,.4.97v4.8h0a1.37,1.37,0,0,1-1.37,1.37H339.37a1.37,1.37,0,0,1-.97-.4,1.37,1.37,0,0,1-.4-.971v-4.8h0a1.37,1.37,0,0,1,1.37-1.367Z" transform="translate(-338 24.667)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Shape-4" data-name="Shape" d="M323.542-24.329a8.88,8.88,0,0,1,6.118,2.444.317.317,0,0,0,.445,0l1.188-1.2a.331.331,0,0,0,.1-.235.331.331,0,0,0-.1-.233,11.2,11.2,0,0,0-15.5,0,.331.331,0,0,0-.1.233.331.331,0,0,0,.1.235l1.188,1.2a.317.317,0,0,0,.445,0,8.881,8.881,0,0,1,6.119-2.444Zm0,3.906a5.043,5.043,0,0,1,3.385,1.3.319.319,0,0,0,.445-.006l1.187-1.2a.331.331,0,0,0,.1-.236.331.331,0,0,0-.1-.235,7.358,7.358,0,0,0-10.023,0,.331.331,0,0,0-.1.235.331.331,0,0,0,.1.236l1.186,1.2a.319.319,0,0,0,.445.006,5.043,5.043,0,0,1,3.383-1.3Zm2.281,2.861a.323.323,0,0,0,.1-.237.323.323,0,0,0-.1-.232,3.517,3.517,0,0,0-4.542,0,.323.323,0,0,0-.1.232.323.323,0,0,0,.1.237l2.055,2.072a.32.32,0,0,0,.228.1.321.321,0,0,0,.228-.1Z" transform="translate(-315.685 26.666)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <path id="Shape-5" data-name="Shape" d="M294.7-19.482h1.028a1.028,1.028,0,0,1,1.028,1.028V-16.4a1.028,1.028,0,0,1-1.028,1.028H294.7a1.028,1.028,0,0,1-1.028-1.028v-2.056A1.028,1.028,0,0,1,294.7-19.482Zm4.8-2.056h1.028a1.028,1.028,0,0,1,1.028,1.028v4.11a1.028,1.028,0,0,1-1.028,1.028h-1.028a1.028,1.028,0,0,1-1.028-1.028v-4.11A1.028,1.028,0,0,1,299.495-21.538Zm4.8-2.4h1.028a1.028,1.028,0,0,1,1.028,1.028v6.51a1.028,1.028,0,0,1-1.028,1.028h-1.028a1.028,1.028,0,0,1-1.028-1.028v-6.509a1.028,1.028,0,0,1,1.02-1.026Zm4.8-2.4h1.028a1.028,1.028,0,0,1,1.028,1.028v8.91a1.028,1.028,0,0,1-1.028,1.028h-1.028a1.028,1.028,0,0,1-1.028-1.028v-8.908a1.028,1.028,0,0,1,1.016-1.025Z" transform="translate(-293.667 26.333)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Heading" transform="translate(-17.185 -15.949)">
+    <g id="White_Header" data-name="White Header" transform="translate(17.185 15.949)">
+      <g id="Border" transform="translate(317.471 2.398)" clip-path="url(#clip-path)">
+        <path id="Fill" d="M2.741,0H19.87a2.741,2.741,0,0,1,2.741,2.741V8.908h0a2.741,2.741,0,0,1-2.741,2.741H2.741A2.741,2.741,0,0,1,0,8.908V2.741H0A2.741,2.741,0,0,1,2.741,0Z" fill="none" stroke="rgba(255,255,255,0.35)" stroke-width="2"/>
+      </g>
+      <g id="Cap" transform="translate(341.11 6.167)" clip-path="url(#clip-path-2)">
+        <path id="Fill-2" data-name="Fill" d="M354-28h11.642v14.389H354Z" transform="translate(-359.139 22.861)" fill="rgba(255,255,255,0.4)"/>
+      </g>
+      <g id="Capacity" transform="translate(319.527 4.453)" clip-path="url(#clip-path-3)">
+        <path id="Fill-3" data-name="Fill" d="M333-29.667h28.777v17.814H333Z" transform="translate(-338.139 24.528)" fill="#fff"/>
+      </g>
+      <g id="Wifi" transform="translate(296.592 2.399)" clip-path="url(#clip-path-4)">
+        <path id="Fill-4" data-name="Fill" d="M310.694-31.669h25.974v21.551H310.694Z" transform="translate(-315.824 26.527)" fill="#fff"/>
+      </g>
+      <g id="Cellular_Connection" data-name="Cellular Connection" transform="translate(273.963 2.741)" clip-path="url(#clip-path-5)">
+        <path id="Fill-5" data-name="Fill" d="M288.667-31.333h27.75v21.241h-27.75Z" transform="translate(-293.806 26.194)" fill="#fff"/>
+      </g>
+      <path id="Background" d="M21-18.556H76.5V-35H21Z" transform="translate(-21 35)" fill="none"/>
+    </g>
+    <text id="_9:41" data-name="9:41" transform="translate(29.518 29.949)" fill="#fff" font-size="13" font-family="Poppins-Medium, Poppins" font-weight="500" letter-spacing="0.06em"><tspan x="0" y="0">8:22</tspan></text>
+  </g>
+</svg>

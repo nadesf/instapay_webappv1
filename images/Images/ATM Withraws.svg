@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42.249" height="45.01" viewBox="0 0 42.249 45.01">
+  <g id="ATM_Withraws" data-name="ATM Withraws" transform="translate(-320.858 -560.716)">
+    <path id="Path_156" data-name="Path 156" d="M286.606,2988.024l-2.011-.129s-.513-.146-.625-.537c-.041-.145-.112-1.026-.112-1.026s.036-3.54.112-5.936c.024-.771-.122-1.958.4-2.337a2.9,2.9,0,0,1,1.625-.248l36.618-.094a2.353,2.353,0,0,1,1,.447,1.89,1.89,0,0,1,.493.9v6.746s-.023.589-.113,1.426a.824.824,0,0,1-.86.791h-1.666" transform="translate(38 -2416)" fill="none" stroke="#352f70" stroke-linecap="round" stroke-width="2"/>
+    <path id="Path_157" data-name="Path 157" d="M288.366,2982.871H319.8" transform="translate(38 -2416)" fill="none" stroke="#342e70" stroke-linecap="round" stroke-width="2"/>
+    <path id="Path_158" data-name="Path 158" d="M290.972,2986.62v19.691a3.074,3.074,0,0,0,.657,1.836,2.806,2.806,0,0,0,1.826.494h21.129a2.4,2.4,0,0,0,1.663-.494,3.492,3.492,0,0,0,.7-1.836V2986.62" transform="translate(38 -2416)" fill="none" stroke="#352f70" stroke-linecap="round" stroke-width="2"/>
+    <g id="Rectangle_47" data-name="Rectangle 47" transform="translate(333 577)" fill="#fff" stroke="#5f64c7" stroke-width="2">
+      <rect width="8" height="12" rx="4" stroke="none"/>
+      <rect x="1" y="1" width="6" height="10" rx="3" fill="none"/>
+    </g>
+    <g id="Group_152" data-name="Group 152" transform="translate(337.835 596.556)">
+      <path id="Path_159" data-name="Path 159" d="M299.835,3012.555l4.458,4.442,4.046-4.442" transform="translate(-299.835 -3008.912)" fill="none" stroke="#352f70" stroke-linecap="round" stroke-width="1.5"/>
+      <path id="Path_160" data-name="Path 160" d="M304.16,3020.641v-8.085" transform="translate(-299.835 -3012.556)" fill="none" stroke="#352f70" stroke-linecap="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

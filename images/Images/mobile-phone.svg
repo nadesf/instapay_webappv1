@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.411" height="37.16" viewBox="0 0 21.411 37.16">
+  <g id="mobile-phone" transform="translate(-108.5)">
+    <g id="Group_155" data-name="Group 155" transform="translate(108.5)">
+      <g id="Group_154" data-name="Group 154">
+        <path id="Path_161" data-name="Path 161" d="M127.189,0H111.222A2.725,2.725,0,0,0,108.5,2.722V34.439a2.725,2.725,0,0,0,2.722,2.722h15.967a2.725,2.725,0,0,0,2.722-2.722V2.722A2.725,2.725,0,0,0,127.189,0Zm1.633,29.54H113.4a.544.544,0,0,0,0,1.089h15.423v3.81a1.635,1.635,0,0,1-1.633,1.633H111.222a1.635,1.635,0,0,1-1.633-1.633v-3.81h1.633a.544.544,0,1,0,0-1.089h-1.633V5.443h19.233Zm0-25.185H109.589V2.722a1.635,1.635,0,0,1,1.633-1.633h15.967a1.635,1.635,0,0,1,1.633,1.633Z" transform="translate(-108.5)" fill="#321d6f"/>
+      </g>
+    </g>
+    <g id="Group_157" data-name="Group 157" transform="translate(118.661 2)">
+      <g id="Group_156" data-name="Group 156">
+        <path id="Path_162" data-name="Path 162" d="M251.222,30h-2.177a.544.544,0,0,0,0,1.089h2.177a.544.544,0,1,0,0-1.089Z" transform="translate(-248.5 -30)" fill="#5f64c7"/>
+      </g>
+    </g>
+    <g id="Group_159" data-name="Group 159" transform="translate(117.572 31.717)">
+      <g id="Group_158" data-name="Group 158">
+        <path id="Path_163" data-name="Path 163" d="M235.133,437a1.633,1.633,0,1,0,1.633,1.633A1.635,1.635,0,0,0,235.133,437Zm0,2.177a.544.544,0,1,1,.544-.544A.545.545,0,0,1,235.133,439.177Z" transform="translate(-233.5 -437)" fill="#5f64c7"/>
+      </g>
+    </g>
+    <g id="Group_161" data-name="Group 161" transform="translate(117.059 1.973)">
+      <g id="Group_160" data-name="Group 160" transform="translate(0 0)">
+        <circle id="Ellipse_36" data-name="Ellipse 36" cx="0.475" cy="0.475" r="0.475" transform="translate(0 0.027)" fill="#5f64c7"/>
+      </g>
+    </g>
+  </g>
+</svg>

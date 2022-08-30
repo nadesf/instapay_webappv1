@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="51" height="55" viewBox="0 0 51 55">
+  <g id="Contactless_Payment" data-name="Contactless Payment" transform="translate(-38 -507)">
+    <g id="Ellipse_32" data-name="Ellipse 32" transform="translate(38 507)" fill="none" stroke="#5f64c7" stroke-width="3">
+      <ellipse cx="25.5" cy="26.5" rx="25.5" ry="26.5" stroke="none"/>
+      <ellipse cx="25.5" cy="26.5" rx="24" ry="25" fill="none"/>
+    </g>
+    <g id="Ellipse_33" data-name="Ellipse 33" transform="translate(47 516)" fill="none" stroke="#5f64c7" stroke-width="3">
+      <circle cx="17" cy="17" r="17" stroke="none"/>
+      <circle cx="17" cy="17" r="15.5" fill="none"/>
+    </g>
+    <path id="Polygon_2" data-name="Polygon 2" d="M17,0,34,25H0Z" transform="translate(47 537)" fill="#fff"/>
+    <circle id="Ellipse_34" data-name="Ellipse 34" cx="6.5" cy="6.5" r="6.5" transform="translate(57 526)" fill="#321d6f"/>
+  </g>
+</svg>

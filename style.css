@@ -1,0 +1,158 @@
+*, *:before, *:after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Nunito', sans-serif;
+  }
+
+body{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    background: -webkit-linear-gradient(left, #7579ff, #b224ef);
+    font-family: 'Nunito', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    position: relative;
+    left: 25px;
+    font-weight: bold;
+    color: white
+}
+
+header p {
+    position: relative;
+    bottom: 5px;
+    left: 35px;
+    color: white;
+    font-weight: bold;
+}
+
+.login_bloc {
+    border: 1px inside black;
+    background-color: white;
+    box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 15px 12px rgba(0, 0, 0, 0.22);;
+    display: flex;
+    width: 900px;
+    height: 600px;
+    margin: auto;
+    position: relative;
+    right: 100px;
+}
+
+.login_banner{
+    background-image: url(images/1.jpg);
+    background-size: cover;
+    width: 28%;
+}
+
+
+.login_banner h2, .login_banner p {
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 30px;
+    margin: 10px 5px;
+}
+
+.login_banner h2{
+    font-size: 30px;
+}
+
+.login_btn {
+    position: relative;
+    top: 60%;
+    border: 1px solid white;
+    border-radius: 15px;
+    width: 75%;
+    height: 40px;
+    text-align: center;
+    margin: auto;
+}
+
+.login_btn a {
+    color: white;
+    text-decoration: none;
+    position: relative;
+    top: 5px;
+    font-size: 18px;
+}
+
+/* Les champs de connexion */
+
+.login_form {
+    display: flex;
+    flex-direction: column;
+    height: 510px;
+    width: 500px;
+    margin: auto;
+    text-align: center;
+}
+
+
+.login_form h2{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.login_form form {
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+
+input {
+    border: none;
+    border-bottom: 1px solid gray;
+    text-align: center;
+    width: 300px;
+    height: 30px;
+    margin-bottom: 30px;
+}
+input:focus {
+    border: none;
+}
+
+button{
+    display: block;
+    margin: 5px auto;
+    width: 260px;
+    height: 36px;
+    border-radius: 30px;
+    color: #fff;
+    font-size: 15px;
+    cursor: pointer;
+}
+  
+.submit{
+    text-transform: uppercase;
+    font-weight: 600;
+    font-family: 'Nunito', sans-serif;
+    background: -webkit-linear-gradient(left, #7579ff, #b224ef);
+}
+
+.submit:hover{
+    background: -webkit-linear-gradient(left, #b224ef, #7579ff);
+  }
+  
+.forgot-pass{
+    margin-top: 80px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 600;
+    color: #0c0101;
+    cursor: pointer;
+}
+  
+.forgot-pass:hover{
+    color: #b224ef;
+}
+
+.error {
+    color: red;
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    text-align: center;
+}

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="39" height="37" viewBox="0 0 39 37">
+  <g id="Online_Payment" data-name="Online Payment" transform="translate(35 -3272.388)">
+    <g id="Group_134" data-name="Group 134" transform="translate(-18.005 3281.347)">
+      <g id="Rectangle_35" data-name="Rectangle 35" transform="translate(0.005 0.041)" fill="none" stroke="#5f64c7" stroke-width="1.5">
+        <path d="M0,0H19a3,3,0,0,1,3,3V25a3,3,0,0,1-3,3H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" stroke="none"/>
+        <path d="M1.5.75H19A2.25,2.25,0,0,1,21.25,3V25A2.25,2.25,0,0,1,19,27.25H1.5a.75.75,0,0,1-.75-.75V1.5A.75.75,0,0,1,1.5.75Z" fill="none"/>
+      </g>
+      <path id="Path_72" data-name="Path 72" d="M506.6,598.042h14.512" transform="translate(-499.439 -591.84)" fill="none" stroke="#5f64c7" stroke-width="1.5"/>
+      <path id="Path_73" data-name="Path 73" d="M506.6,602.46h6.565" transform="translate(-499.439 -589.417)" fill="none" stroke="#5f64c7" stroke-width="1.5"/>
+      <path id="Path_74" data-name="Path 74" d="M506.6,606.61h6.565" transform="translate(-499.439 -587.141)" fill="none" stroke="#5f64c7" stroke-width="1.5"/>
+    </g>
+    <g id="Group_133" data-name="Group 133" transform="translate(-35 3272)">
+      <g id="Rectangle_34" data-name="Rectangle 34" transform="translate(0 0.388)" fill="#fdfdfd" stroke="#352f70" stroke-width="1.5">
+        <rect width="25" height="37" rx="3" stroke="none"/>
+        <rect x="0.75" y="0.75" width="23.5" height="35.5" rx="2.25" fill="none"/>
+      </g>
+      <path id="Path_71" data-name="Path 71" d="M492.009,604.066h22.6" transform="translate(-490.447 -579.19)" fill="none" stroke="#352f70" stroke-width="1.5"/>
+      <circle id="Ellipse_29" data-name="Ellipse 29" cx="2" cy="2" r="2" transform="translate(11 28.388)" fill="#352f70" stroke="#352f70" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>
